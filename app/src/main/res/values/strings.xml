@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">WeightTrackerBasic</string>
+    <string name="col1">Date</string>
+    <string name="col2">Current Weight</string>
+    <string name="col3">Goal Weight</string>
+    <string name="col4">Delta</string>
+    <string name="col5">EDIT</string>
+    <string name="row1CW">190lbs</string>
+    <string name="row1GW">175lbs</string>
+    <string name="row1Delta">15lbs</string>
+    <string name="row1Date">Feb 2</string>
+    <string name="row2CW">189lbs</string>
+    <string name="row2GW">175lbs</string>
+    <string name="row2Delta">14lbs</string>
+    <string name="row2Date">Feb 3</string>
+    <string name="row3CW">188lbs</string>
+    <string name="row3GW">175lbs</string>
+    <string name="row3Delta">13lbs</string>
+    <string name="row3Date">Feb 4</string>
+    <string name="row4CW">187lbs</string>
+    <string name="row4GW">175lbs</string>
+    <string name="row4Delta">12lbs</string>
+    <string name="row4Date">Feb 5</string>
+    <string name="row5CW">187lbs</string>
+    <string name="row5GW">175lbs</string>
+    <string name="row5Delta">12lbs</string>
+    <string name="row5Date">Feb 6</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string-array name="categories">
+        <item></item>
+        <item>Chest</item>
+        <item>Back</item>
+        <item>Arms</item>
+        <item>Legs</item>
+        <item>Cardio</item>
+        <item>Other</item>
+    </string-array>
+</resources>
