@@ -54,6 +54,37 @@ our website to provide additional sales opportunities and revenue.
 
 -----
 
+#CRUD Operations
+</br>
+**Create Weight Entry**
+</br>
+https://user-images.githubusercontent.com/116769623/204875024-8bdde464-4431-4db0-afb7-a7012e06ca5f.mp4
+</br>
+</br>
+**Read Weight Entry**
+</br>
+![image](https://user-images.githubusercontent.com/116769623/204156901-cd34b9cd-87cc-484e-a9ba-ccfd691c5490.png)
+</br>
+</br>
+**Update Goal**
+</br>
+https://user-images.githubusercontent.com/116769623/204875649-125c070a-b17f-40c3-b5da-d1dd2aee953e.mp4
+</br>
+</br>
+**Update Weight Entry**
+</br>
+https://user-images.githubusercontent.com/116769623/204875520-b6cebbad-5f86-4017-b870-8019794d4a44.mp4
+</br>
+</br>
+**Delete Weight Entry**
+</br>
+https://user-images.githubusercontent.com/116769623/204875855-8bb9f334-7ef3-46c5-9bb0-ef2e4f10b148.mp4
+</br>
+
+
+-----
+
+**Screenshots**
 ![image](https://user-images.githubusercontent.com/116769623/204156103-297b0e72-5300-45e6-bae8-e218eab77c6b.png)
 ![image](https://user-images.githubusercontent.com/116769623/204156901-cd34b9cd-87cc-484e-a9ba-ccfd691c5490.png)
 ![image](https://user-images.githubusercontent.com/116769623/204156250-47e7ee09-d9fa-408a-b66c-ec7fc4fc143e.png)
