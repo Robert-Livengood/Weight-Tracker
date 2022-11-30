@@ -59,7 +59,7 @@ our website to provide additional sales opportunities and revenue.
 **Create Weight Entry**
 </br>
 
-https://user-images.githubusercontent.com/116769623/204875024-8bdde464-4431-4db0-afb7-a7012e06ca5f.mp4
+https://user-images.githubusercontent.com/116769623/204876561-b47e8a01-9438-4699-b03a-caa4644d10b9.mp4
 
 </br>
 </br>
@@ -73,24 +73,25 @@ https://user-images.githubusercontent.com/116769623/204875024-8bdde464-4431-4db0
 **Update Goal**
 </br>
 
-https://user-images.githubusercontent.com/116769623/204875649-125c070a-b17f-40c3-b5da-d1dd2aee953e.mp4
+https://user-images.githubusercontent.com/116769623/204876617-f8be507e-bd5f-461a-9ac1-be72bb97d14d.mp4
+
 
 </br>
 </br>
 **Update Weight Entry**
 </br>
 
-https://user-images.githubusercontent.com/116769623/204875520-b6cebbad-5f86-4017-b870-8019794d4a44.mp4
+https://user-images.githubusercontent.com/116769623/204876659-b07ddea1-55b1-4209-9ecc-1001ad1f7002.mp4
+
 
 </br>
 </br>
 **Delete Weight Entry**
 </br>
 
-https://user-images.githubusercontent.com/116769623/204875855-8bb9f334-7ef3-46c5-9bb0-ef2e4f10b148.mp4
+https://user-images.githubusercontent.com/116769623/204876702-963037ca-5b71-478c-bcf0-8ea995ffbfa3.mp4
 
 </br>
-
 
 -----
 
